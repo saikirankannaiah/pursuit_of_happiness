@@ -25,7 +25,7 @@ pip install jupyterlab
 ```
 
 ## Results <a name="results"></a>
-
+I have described the results [here](https://saikirankannaiah.github.io/Pursuit-of-Happiness/)
 
 ## Acknowledgements <a name="acknowledgements"></a>
 I would like to thank kaggle for hosting the data on this link [here](https://www.kaggle.com/unsdsn/world-happiness)
